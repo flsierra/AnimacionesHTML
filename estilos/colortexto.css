@@ -1,0 +1,16 @@
+#general{
+	width:1320px;
+	height:500px;
+	background:;
+}
+#cuadro1{
+	width:1230px;
+	height: 100px;
+	background:; 
+	margin-top: 100px;
+	
+}
+#cuadro1:hover {
+	color:red;
+	transition-duration: 0.9s;
+}

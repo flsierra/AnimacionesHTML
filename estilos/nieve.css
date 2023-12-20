@@ -1,0 +1,927 @@
+
+img {
+	margin-top: 40px;
+}
+
+
+#copo{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo;
+	-webkit-animation-duration:7s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo{
+	0% {left:px;top:0px;}
+	100% {left:px;top:1000px;}
+
+
+}
+
+#copo1{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo1;
+	-webkit-animation-duration:10s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo1{
+	0% {left:100px;top:0px;}
+	100% {left:100px;top:1000px;}
+
+
+}
+
+#copo2{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo2;
+	-webkit-animation-duration:8s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo2{
+	0% {left:200px;top:0px;}
+	100% {left:200px;top:1000px;}
+
+
+}
+
+#copo3{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo3;
+	-webkit-animation-duration:10s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo3{
+	0% {left:300px;top:0px;}
+	100% {left:300px;top:1000px;}
+
+
+}
+
+#copo4{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo4;
+	-webkit-animation-duration:7s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo4{
+	0% {left:400px;top:0px;}
+	100% {left:400px;top:1000px;}
+
+
+}
+
+#copo5{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo5;
+	-webkit-animation-duration:9s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo5{
+	0% {left:500px;top:0px;}
+	100% {left:500px;top:1000px;}
+
+
+}
+
+#copo6{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo6;
+	-webkit-animation-duration:8s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo6{
+	0% {left:600px;top:0px;}
+	100% {left:600px;top:1000px;}
+
+
+}
+
+#copo7{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo7;
+	-webkit-animation-duration:10s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo7{
+	0% {left:700px;top:0px;}
+	100% {left:700px;top:1000px;}
+
+
+}
+
+#copo8{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo8;
+	-webkit-animation-duration:7s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo8{
+	0% {left:800px;top:0px;}
+	100% {left:800px;top:1000px;}
+
+
+}
+
+#copo9{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo9;
+	-webkit-animation-duration:10s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo9{
+	0% {left:900px;top:0px;}
+	100% {left:900px;top:1000px;}
+
+
+}
+
+#copo10{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo10;
+	-webkit-animation-duration:8s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo10{
+	0% {left:1000px;top:0px;}
+	100% {left:1000px;top:1000px;}
+
+
+}
+
+#copo11{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo11;
+	-webkit-animation-duration:7s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo11{
+	0% {left:1100px;top:0px;}
+	100% {left:1100px;top:1000px;}
+
+
+}
+
+
+#copo12{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo12;
+	-webkit-animation-duration:14s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo12{
+	0% {left:50px;top:0px;}
+	100% {left:50px;top:1000px;}
+
+
+}
+
+#copo13{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo13;
+	-webkit-animation-duration:20s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo13{
+	0% {left:150px;top:0px;}
+	100% {left:150px;top:1000px;}
+
+
+}
+
+#copo14{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo14;
+	-webkit-animation-duration:16s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo14{
+	0% {left:250px;top:0px;}
+	100% {left:250px;top:1000px;}
+
+
+}
+
+#copo15{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo15;
+	-webkit-animation-duration:20s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo15{
+	0% {left:350px;top:0px;}
+	100% {left:350px;top:1000px;}
+
+
+}
+
+#copo16{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo16;
+	-webkit-animation-duration:14s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo16{
+	0% {left:450px;top:0px;}
+	100% {left:450px;top:1000px;}
+
+
+}
+
+#copo17{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo17;
+	-webkit-animation-duration:18s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo17{
+	0% {left:550px;top:0px;}
+	100% {left:550px;top:1000px;}
+
+
+}
+
+#copo18{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo18;
+	-webkit-animation-duration:16s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo18{
+	0% {left:650px;top:0px;}
+	100% {left:650px;top:1000px;}
+
+
+}
+
+#copo19{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo19;
+	-webkit-animation-duration:20s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo19{
+	0% {left:750px;top:0px;}
+	100% {left:750px;top:1000px;}
+
+
+}
+
+#copo20{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo20;
+	-webkit-animation-duration:14s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo20{
+	0% {left:850px;top:0px;}
+	100% {left:850px;top:1000px;}
+
+
+}
+
+#copo21{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo21;
+	-webkit-animation-duration:20s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo21{
+	0% {left:950px;top:0px;}
+	100% {left:950px;top:1000px;}
+
+
+}
+
+#copo22{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo22;
+	-webkit-animation-duration:16s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo22{
+	0% {left:1050px;top:0px;}
+	100% {left:1050px;top:1000px;}
+
+
+}
+
+#copo23{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo23;
+	-webkit-animation-duration:14s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo23{
+	0% {left:1100px;top:0px;}
+	100% {left:1100px;top:1000px;}
+
+
+}
+
+
+
+
+
+
+
+
+
+#copo24{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo24;
+	-webkit-animation-duration:24s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo24{
+	0% {left:30px;top:0px;}
+	100% {left:30px;top:1000px;}
+
+
+}
+
+#copo25{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo1;
+	-webkit-animation-duration:30s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo25{
+	0% {left:130px;top:0px;}
+	100% {left:130px;top:1000px;}
+
+
+}
+
+#copo26{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo26;
+	-webkit-animation-duration:32s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo26{
+	0% {left:230px;top:0px;}
+	100% {left:230px;top:1000px;}
+
+
+}
+
+#copo27{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo27;
+	-webkit-animation-duration:30s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo27{
+	0% {left:330px;top:0px;}
+	100% {left:330px;top:1000px;}
+
+
+}
+
+#copo28{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo28;
+	-webkit-animation-duration:28s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo28{
+	0% {left:430px;top:0px;}
+	100% {left:430px;top:1000px;}
+
+
+}
+
+#copo29{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo29;
+	-webkit-animation-duration:36s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo29{
+	0% {left:530px;top:0px;}
+	100% {left:530px;top:1000px;}
+
+
+}
+
+#copo30{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo30;
+	-webkit-animation-duration:32s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo30{
+	0% {left:630px;top:0px;}
+	100% {left:630px;top:1000px;}
+
+
+}
+
+#copo31{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo7;
+	-webkit-animation-duration:40s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo31{
+	0% {left:730px;top:0px;}
+	100% {left:730px;top:1000px;}
+
+
+}
+
+#copo31{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo31;
+	-webkit-animation-duration:28s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo31{
+	0% {left:830px;top:0px;}
+	100% {left:830px;top:1000px;}
+
+
+}
+
+#copo32{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo32;
+	-webkit-animation-duration:40s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo32{
+	0% {left:930px;top:0px;}
+	100% {left:930px;top:1000px;}
+
+
+}
+
+#copo33{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo33;
+	-webkit-animation-duration:32s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo33{
+	0% {left:1030px;top:0px;}
+	100% {left:1030px;top:1000px;}
+
+
+}
+
+#copo34{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo34;
+	-webkit-animation-duration:28s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo34{
+	0% {left:1130px;top:0px;}
+	100% {left:1130px;top:1000px;}
+
+
+}
+
+
+#copo35{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo35;
+	-webkit-animation-duration:56s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo35{
+	0% {left:60px;top:0px;}
+	100% {left:60px;top:1000px;}
+
+
+}
+
+#copo36{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo36;
+	-webkit-animation-duration:50s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo36{
+	0% {left:160px;top:0px;}
+	100% {left:160px;top:1000px;}
+
+
+}
+
+#copo37{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo37;
+	-webkit-animation-duration:42s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo37{
+	0% {left:260px;top:0px;}
+	100% {left:260px;top:1000px;}
+
+
+}
+
+#copo38{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo38;
+	-webkit-animation-duration:50s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo38{
+	0% {left:360px;top:0px;}
+	100% {left:360px;top:1000px;}
+
+
+}
+
+#copo39{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo39;
+	-webkit-animation-duration:38s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo39{
+	0% {left:460px;top:0px;}
+	100% {left:460px;top:1000px;}
+
+
+}
+
+#copo40{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo40;
+	-webkit-animation-duration:46s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo40{
+	0% {left:560px;top:0px;}
+	100% {left:560px;top:1000px;}
+
+
+}
+
+#copo41{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo41;
+	-webkit-animation-duration:42s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo41{
+	0% {left:660px;top:0px;}
+	100% {left:660px;top:1000px;}
+
+
+}
+
+#copo42{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo42;
+	-webkit-animation-duration:50s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo42{
+	0% {left:760px;top:0px;}
+	100% {left:760px;top:1000px;}
+
+
+}
+
+#copo43{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo43;
+	-webkit-animation-duration:38s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo43{
+	0% {left:860px;top:0px;}
+	100% {left:860px;top:1000px;}
+
+
+}
+
+#copo44{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo44;
+	-webkit-animation-duration:50s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo44{
+	0% {left:960px;top:0px;}
+	100% {left:960px;top:1000px;}
+
+
+}
+
+#copo45{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo45;
+	-webkit-animation-duration:42s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo45{
+	0% {left:1060px;top:0px;}
+	100% {left:1060px;top:1000px;}
+
+
+}
+
+#copo46{
+	background: url(Img/copo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: copo46;
+	-webkit-animation-duration:38s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes copo46{
+	0% {left:1160px;top:0px;}
+	100% {left:1160px;top:1000px;}
+
+
+}

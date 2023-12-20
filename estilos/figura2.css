@@ -1,0 +1,29 @@
+body
+{
+background-color:;	
+}
+
+#caja
+{
+width: 200px;
+height:200px;
+margin-top: 100px;
+margin-left: 100px;
+background-color: blue;
+transition-property: all 1 ease;
+}
+
+#caja:hover
+{
+width: 400px;
+height:  400px;
+transition-property: all 1 ease;
+
+
+}
+#boton
+{
+width: 400px;
+height:  400px;
+background-color: ;
+}

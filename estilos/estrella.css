@@ -1,0 +1,42 @@
+
+
+#imagen1{
+	background: url(estrella.png);
+	height: 200px;
+	width: 200px;
+	margin-top:  450px;
+	position: absolute;
+	transition-delay: 500S;
+	
+	-webkit-animation-name: imagen1;
+		-webkit-animation-duration: 30s;
+
+}
+@keyframes imagen1{
+	0%{left: 600px;top:-200px;}
+	90%{left: -1400px;top: -900px;}
+
+	
+
+}
+
+#imagen2{
+	background: url(texto.png);
+	height: 500px;
+	width: 500px;
+	margin-top:  450px;
+	
+	position: absolute;
+	-webkit-animation-name: texto;
+		-webkit-animation-duration: 30s;
+
+}
+@keyframes texto{
+	0%{left: 900px;top:100px;}
+	100%{left:-400px;top: -600px;}
+
+
+}
+
+
+	

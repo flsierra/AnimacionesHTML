@@ -1,0 +1,16 @@
+#general{
+	width:1320px;
+	height:500px;
+	background:;
+}
+#cuadro1{
+	width:100px;
+	height: 100px;
+	background:yellow; 
+	margin-top: 100px;
+	margin-left: 500px;
+}
+#cuadro1:hover {
+	-webkit-transform:rotate(45grad);
+	transition-duration: 0.9s;
+}

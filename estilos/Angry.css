@@ -1,0 +1,31 @@
+img {
+	margin-top: 40px;
+}
+
+#pollo{
+	background: url(objetivorojo.png);
+	position: absolute;
+	margin-left:110px;
+	margin-top: -200px;
+	-webkit-animation-name: pollo;
+	-webkit-animation-duration:.5s;
+	transition-delay: 20s;
+	
+	
+
+}
+@keyframes pollo{
+	0% {left:40px;top:640px;}
+	10% {left: 95px;top:580px;}
+	20% {left: 184px;top:500px;}
+	30% {left: 276px;top:450px;}
+	40% {left: 368px;top:390px;}
+	50% {left: 460px;top:320px;}
+	60% {left: 552px;top:310px;}
+	70% {left: 644px;top:330px;}
+	80% {left: 736px;top:350px;}
+	90% {left: 828px;top:400px;}
+	100% {left: 920px;top:450px;}
+
+
+}

@@ -1,0 +1,42 @@
+body
+{
+	background-image: url(../imagenes/fondo.png);
+	background-repeat: no-repeat;
+	width: 1300px;
+	height: 200px;
+}
+
+
+
+
+div.contenedor
+{
+width: 600px;
+height: 600px;
+margin: 5% auto;
+padding: 2em;
+background:;
+margin: 0 auto;
+}
+div.ejemplo
+{
+width: 100px;
+height: 100px;
+margin-top: 400px;
+
+background: ;
+
+
+}
+.contenedor:hover > .ejemplo
+{
+	background:;
+	margin-top: -100%;
+	
+	
+	
+transition-property: margin-top;
+transition-duration: 5s;
+
+}
+
